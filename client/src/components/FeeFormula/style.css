@@ -1,0 +1,8 @@
+ul {
+  border-radius: 25px;
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  margin-bottom: 1em;
+  padding: 1em;
+  list-style-type: none;
+}
